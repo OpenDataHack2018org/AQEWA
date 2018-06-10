@@ -1,4 +1,5 @@
-# AQEWA#Installation of Rstudio
+# AQEWA
+#Installation of Rstudio
 If not already installed on your computer, install RStudio
 
 #Installing packages
